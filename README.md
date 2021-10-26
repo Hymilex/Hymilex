@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![](http://antzuhl.cn:4000/get/@Simon.readme)
 
-![info](https://github-readme-stats.vercel.app/api?username=Hymilex&show_icons=true&count_private=true&hide=prs&theme=dark)
+![info](https://github-readme-stats.vercel.app/api?username=Hymilex&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Hymilex.readme)
 
