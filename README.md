@@ -1,11 +1,11 @@
 ### I'm Hymilex
 
 <img src="https://github-readme-stats.vercel.app/api?username=Hymilex&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
-- 🎓 China University of Mining and Technology
-- 📦 AI图像算法工程师
-- 🤔 Silence makes big money.
-- 💬 Life's most persistent and urgent question is, "What are you doing for others?"
-- 🌱 以自己想要的方式过完一生，就是成功。
+-🎓 China University of Mining and Technology
+-📦 AI图像算法工程师
+-🤔 Silence makes big money.
+-💬 Life's most persistent and urgent question is, "What are you doing for others?"
+-🌱 以自己想要的方式过完一生，就是成功。
 <!--
 **Hymilex/Hymilex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
