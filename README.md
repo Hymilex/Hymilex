@@ -21,4 +21,7 @@ Here are some ideas to get you started:
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Hymilex.readme)
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Hymilex&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hymilex&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
