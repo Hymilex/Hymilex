@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](http://hymilex.cn:4000/get/@hymilex.readme)
+![](http://antzuhl.cn:4000/get/@Hymilex.readme)
 
+![info](https://github-readme-stats.vercel.app/api?username=Hymilex&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
-![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
+![](https://visitor-badge.glitch.me/badge?page_id=Hymilex.readme)
 
