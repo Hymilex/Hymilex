@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Hymilex&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hymilex&layout=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hymilex)](https://github.com/anuraghazra/github-readme-stats)
