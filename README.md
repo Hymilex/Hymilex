@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Hymilex.readme)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Hymilex&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img src="https://github-profile-trophy.vercel.app/?username=Hymilex&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
